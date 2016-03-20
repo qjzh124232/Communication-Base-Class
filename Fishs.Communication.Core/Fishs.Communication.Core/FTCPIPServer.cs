@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Threading.Tasks;
 using System.Net;
 
-namespace Fishs.Communication.Core
+namespace Fishs.Communication.TCPIP
 {
     public class FTCPIPServer:IDisposable
     {

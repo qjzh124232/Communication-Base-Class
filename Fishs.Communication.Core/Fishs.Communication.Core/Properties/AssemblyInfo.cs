@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("Fishs.Communication.Core")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("个人TCPIP通讯基类")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Fishs.Communication.Core")]
+[assembly: AssemblyProduct("Fishs.Communication.TCPIP")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

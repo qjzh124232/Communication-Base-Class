@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fishs.Communication.Core
+namespace Fishs.Communication.TCPIP
 {
     public class FTCPIPClient
     {
